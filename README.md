@@ -9,8 +9,6 @@ El glaucoma afecta a **≥ 76 millones** de personas y es la principal causa d
 ## Objetivo SMART
 > Realizar, antes del **30‑jun‑2025**, un prototipo de modelo que clasifique imágenes de retina como *glaucoma/no glaucoma* con **AUC ≥ 0.8**, **sensibilidad ≥ 0.8**, e inferencia < 1 s en un conjunto de prueba multisitio (≈3 000 imágenes).
 
-## 🖼️ Arquitectura del modelo
-
 ## Estructura del repositorio
 data/	Imágenes y metadatos
 notebooks/	Jupyter/Colab con modelos entrenados y resultados de validación
