@@ -182,3 +182,4 @@ datos/
 models/datos/
 *.jpg
 *.png
+models/*.h5
